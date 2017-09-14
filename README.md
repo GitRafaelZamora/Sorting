@@ -1,5 +1,6 @@
 # Sorting
 Sorting Algorithms For Data Structures
 
-Algorithms include:
+## Algorithms:
     1. Recursive Insertion Sort
+    2. More to Come...
